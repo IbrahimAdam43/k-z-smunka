@@ -1,0 +1,6 @@
+Z:\10\prg\20201007\bin\Debug\20201007.exe.config
+Z:\10\prg\20201007\bin\Debug\20201007.exe
+Z:\10\prg\20201007\bin\Debug\20201007.pdb
+Z:\10\prg\20201007\obj\Debug\20201007.csprojAssemblyReference.cache
+Z:\10\prg\20201007\obj\Debug\20201007.exe
+Z:\10\prg\20201007\obj\Debug\20201007.pdb
