@@ -1,0 +1,6 @@
+Z:\10\prg\2020.09.30\bin\Debug\2020.09.30.exe.config
+Z:\10\prg\2020.09.30\bin\Debug\2020.09.30.exe
+Z:\10\prg\2020.09.30\bin\Debug\2020.09.30.pdb
+Z:\10\prg\2020.09.30\obj\Debug\2020.09.30.csprojAssemblyReference.cache
+Z:\10\prg\2020.09.30\obj\Debug\2020.09.30.exe
+Z:\10\prg\2020.09.30\obj\Debug\2020.09.30.pdb
